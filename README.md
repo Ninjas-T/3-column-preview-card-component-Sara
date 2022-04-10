@@ -27,8 +27,8 @@ Users should be able to:
 ### Screenshot
 
 <div display='flex'>
-  <img src ='https://i.ibb.co/HG6DN01/screencapture-ninjas-t-github-io-3-column-preview-card-component-Sara-2022-04-10-16-03-41.png' width="400" height="200">
-  <img src='https://i.ibb.co/gwzYFF1/screencapture-ninjas-t-github-io-3-column-preview-card-component-Sara-2022-04-10-16-04-12.png' width='60' height='200'>
+  <img src ='https://i.ibb.co/HG6DN01/screencapture-ninjas-t-github-io-3-column-preview-card-component-Sara-2022-04-10-16-03-41.png' width="600" height="290">
+  <img src='https://i.ibb.co/gwzYFF1/screencapture-ninjas-t-github-io-3-column-preview-card-component-Sara-2022-04-10-16-04-12.png' width='90' height='290'>
 </div>
 
 ---
